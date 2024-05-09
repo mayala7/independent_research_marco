@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+encoding/__init__.py
+encoding/clip_marco.py
+encoding/config.py
+encoding/encoding.py
+encoding/encoding_utils.py
+encoding/feature_spaces.py
+encoding/load_dataset.py
+encoding/marco.py
+encoding/significance_testing.py
+encoding.egg-info/PKG-INFO
+encoding.egg-info/SOURCES.txt
+encoding.egg-info/dependency_links.txt
+encoding.egg-info/not-zip-safe
+encoding.egg-info/top_level.txt
